@@ -1,4 +1,5 @@
 ## Vinicius Amorim
+4th semester Computer Science student in Brazil
 
 <div>
   <a href="https://github.com/viniam">
