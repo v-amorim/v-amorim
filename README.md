@@ -1,11 +1,11 @@
 ## Vinicius Amorim
 6th semester Computer Science student in Brazil
 
-<div>
+<!-- <div>
   <a href="https://github.com/viniam">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniam&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> -->
 
 <div><br>
     <a href="https://www.linkedin.com/in/vinicius-amorim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
