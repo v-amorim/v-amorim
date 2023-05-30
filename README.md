@@ -31,21 +31,17 @@ Junior Developer
 ---
 <div> 
 
-  ![Snake animation](https://github.com/viniam/viniam/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation][github-snake]
 
 </div>
 
-[//]: # (URL - Status)
-[most-used-languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=viniam&layout=compact&langs_count=7&theme=dracula
-[github-stats]:https://github-readme-stats.vercel.app/api?username=viniam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
+[//]: # (URL - Snake)
 [github-snake]:https://github.com/viniam/viniam/blob/output/github-contribution-grid-snake.svg
 
 [///]: # (URL - Editor and OS)
 [visualstudiocode]:https://img.shields.io/badge/VS_Code-informational?logo=visualstudiocode&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
-
 [windows]:https://img.shields.io/badge/Windows-informational?logo=windows&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
 [windowsterminal]:https://img.shields.io/badge/WTerminal-informational?logo=windowsterminal&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
-
 [linux]:https://img.shields.io/badge/Linux-informational?logo=linux&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 [gnu-bash]:https://img.shields.io/badge/Bash-informational?logo=gnu-bash&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 
