@@ -29,6 +29,7 @@ Junior Developer
 ![][gnu-bash]
 
 ---
+### 🐍 Github Status Snake
 <div> 
 
   ![Snake animation][github-snake]
