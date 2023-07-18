@@ -28,7 +28,6 @@ Junior Developer
 ![][linux]
 ![][gnu-bash]
 
----
 
 [///]: # (URL - Editor and OS)
 [visualstudiocode]:https://img.shields.io/badge/VS_Code-informational?logo=visualstudiocode&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
