@@ -1,6 +1,6 @@
 # Vinicius Amorim
 Junior Developer
-7th semester Computer Science student in Brazil
+8th semester Computer Science student in Brazil
 
 
 ---
