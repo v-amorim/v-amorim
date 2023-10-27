@@ -29,7 +29,6 @@ Junior Developer
 ![][linux]
 ![][gnu-bash]
 
----
 ![][waves]
 
 [///]: # (URL - Editor and OS)
