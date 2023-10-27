@@ -59,7 +59,4 @@ Junior Developer
 [stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=v-amorim&layout=compact&langs_count=7&theme=dracula
 
 [///]: # (URL - Extra)
-[waves]:https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
-
-
-
+[waves]:https://raw.githubusercontent.com/v-amorim/v-amorim/main/svg/Bottom.svg
