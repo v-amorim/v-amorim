@@ -1,9 +1,7 @@
-![][waves_top]
-
 # Vinicius Amorim
-Junior Developer
-8th semester Computer Science student in Brazil
 
+![][waves_top]
+Junior Developer - 8th semester Computer Science student in Brazil
 
 ## 📈 Stats
 <div>
