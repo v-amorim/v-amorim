@@ -5,8 +5,10 @@ Junior Developer
 
 ## 📈 Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-amorim&layout=compact&langs_count=7&theme=dracula"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v-amorim&show_icons=true&theme=dracula&include_all_commits=true"/> -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-amorim&theme=dracula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-amorim&theme=dracula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-amorim&theme=dracula&utcOffset=-3"/>
+  <img height="264.8em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-amorim&theme=dracula"/>
 </div>
 
 
@@ -27,6 +29,8 @@ Junior Developer
 ![][linux]
 ![][gnu-bash]
 
+---
+![][waves]
 
 [///]: # (URL - Editor and OS)
 [visualstudiocode]:https://img.shields.io/badge/VS_Code-informational?logo=visualstudiocode&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
@@ -47,3 +51,12 @@ Junior Developer
 [sqlite]:https://img.shields.io/badge/SQLite-informational?logo=sqlite&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 [docker]:https://img.shields.io/badge/Docker-informational?logo=docker&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
 [kubernetes]:https://img.shields.io/badge/Kubernetes-informational?logo=kubernetes&style=flat&logoColor=79dafa&labelColor=282a36&color=5e4053
+
+[///]: # (URL - Stats)
+[stats_with_score]:https://github-readme-stats.vercel.app/api?username=v-amorim&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true
+[stats_score]:https://streak-stats.demolab.com?user=v-amorim&theme=dracula&date_format=M%20j%5B%2C%20Y%5D
+[stats_leetcode]:https://leetcode.card.workers.dev/?username=XXX
+[stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=v-amorim&layout=compact&langs_count=7&theme=dracula
+
+[///]: # (URL - Extra)
+[waves]:https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
