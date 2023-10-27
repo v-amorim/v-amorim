@@ -1,3 +1,5 @@
+![][waves_top]
+
 # Vinicius Amorim
 Junior Developer
 8th semester Computer Science student in Brazil
@@ -29,7 +31,7 @@ Junior Developer
 ![][linux]
 ![][gnu-bash]
 
-![][waves]
+![][waves_bottom]
 
 [///]: # (URL - Editor and OS)
 [visualstudiocode]:https://img.shields.io/badge/VS_Code-informational?logo=visualstudiocode&style=flat&logoColor=79dafa&labelColor=282a36&color=ff6e96
@@ -58,4 +60,5 @@ Junior Developer
 [stats_most_used_languages]:https://github-readme-stats.vercel.app/api/top-langs/?username=v-amorim&layout=compact&langs_count=7&theme=dracula
 
 [///]: # (URL - Extra)
-[waves]:https://raw.githubusercontent.com/v-amorim/v-amorim/main/svg/Bottom.svg
+[waves_top]:https://raw.githubusercontent.com/v-amorim/v-amorim/main/svg/Top.svg
+[waves_bottom]:https://raw.githubusercontent.com/v-amorim/v-amorim/main/svg/Bottom.svg
