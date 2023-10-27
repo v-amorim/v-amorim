@@ -8,7 +8,7 @@ Junior Developer
   <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=v-amorim&theme=dracula"/>
   <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v-amorim&theme=dracula"/>
   <img height="164em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v-amorim&theme=dracula&utcOffset=-3"/>
-  <img height="316m" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-amorim&theme=dracula"/>
+  <img height="241.8em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-amorim&theme=dracula"/>
 </div>
 
 
@@ -60,3 +60,6 @@ Junior Developer
 
 [///]: # (URL - Extra)
 [waves]:https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg
+
+
+
