@@ -1,7 +1,7 @@
 # Vinicius Amorim
 
 ![][waves_top]
-Junior Developer - Computer Science graduate in Brazil
+Data Engineer Developer
 
 ## 📈 Stats
 <div>
