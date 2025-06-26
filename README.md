@@ -1,4 +1,4 @@
-# Vinicius Amorim
+# Vinicius Costa Amorim
 
 ![][waves_top]
 Data Engineer Developer
